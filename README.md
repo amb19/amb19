@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jose "jam"</h1>
 <h3 align="center">A passionate IT Specialist in Microsoft Platform !</h3>
 
