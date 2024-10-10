@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jose "jam"</h1>
+<h1 align="center">Hi 👋, I'm Jose "Pepe"</h1>
 <h3 align="center">A passionate IT Specialist in Platform !</h3>
 
-- 🔭 I’m currently working on **Personal project becoming a development *
+- 🔭 I’m currently working on **Personal project becoming a development **
 
-- 🌱 I’m currently learning **I’m currently learning "Aws,Python and Java"**
+- 🌱 I’m currently learning **I’m currently learning "AWS, Python and Java"**
 
 - 💬 Ask me about **Infrastructure It**
 
