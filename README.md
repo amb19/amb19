@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jose "jam"</h1>
 <h3 align="center">A passionate IT Specialist in Platform !</h3>
 
-- 🔭 I’m currently working on **Personal project becoming a development web*
+- 🔭 I’m currently working on **Personal project becoming a development *
 
-- 🌱 I’m currently learning **I’m currently learning "azure,aws,terraform,ansible,devops"**
+- 🌱 I’m currently learning **I’m currently learning "Aws,Python and Java"**
 
 - 💬 Ask me about **Infrastructure It**
 
 - 📫 How to reach me **amb.test19@gmail.com**
 
-- 📄 Know about my experiences Entusiasta Profesional, con experiencia en la Arquitectura, Administración de Tecnologías de la Información y Gestión de proyectos, adentrandome al mundo de desarrollo web.
+- 📄 Know about my experiences Enthusiastic Professional, with experience in Architecture, Information Technology Administration, and Project Management, entering the world of development.
 
 - ⚡ Fun fact **I think that technology is the means, not the end.**
 
