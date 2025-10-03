@@ -1,24 +1,29 @@
 # 🌟 Hi 👋, I'm Jose Maldonado "Pepe"
 
-A passionate IT Specialist in Platform !
+A passionate IT Specialist in Platform!
 
-- 📄 I'm an enthusiastic Professional with experience in Information Technology, including roles such as Architecture,  Administration, and Project Management, entering the world of development.
+- 📄 I'm an enthusiastic IT professional with a background in Architecture, Administration, and Project Management, currently expanding my career into software development.
 
-- 💻 I’m currently working and learning with **"AWS, Python, and Java"**
+- 💻 I’m currently working and learning with **"AWS, Python, and Node"**
 
 ---
 
 ## 🛠️ Tools and Technology
 
-| Herramienta / Lenguaje | Icono |
-|-------------------------|-------|
-| **Java**               | ☕     |
-| **Python**             | 🐍     |
-| **Linux**              | 🐧     |
-| **Docker**             | 🐳     |
-| **Git**                | 🔧     |
-| **VS Code**            | 💻     |
-
+| Herramienta / Lenguaje     | Icono  |
+|----------------------------|--------|
+| **JavaScript / Node.js**   |   🟢  |
+| **Python**                 |   🐍  |
+| **Linux**                  |   🐧  |
+| **Docker**                 |   🐳  |
+| **Git**                    |   🔧  |
+| **VS Code**                |   💻  |
+| **Terraform**              |   🧱  |
+| **Podman**                 |   📦  |
+| **VirtualBox**             |   📀  |
+| **AWS**                    | ☁️🟧  |
+| **Azure**                  | ☁️🔷  |
+	
 ---
 
 ## 📬 Contact me
@@ -32,7 +37,7 @@ A passionate IT Specialist in Platform !
 
 ## 📜 skills
 
-- ✅ I'm Building skills in Backend Development with **Python and Java**.
+- ✅ I'm building skills in Backend Development.
 - ✅ I'm incorporating **IA** with like ChatGPT.
 - ✅ Management of **Infrastructure in the cloud**.
 - 🛠️ Azure Devops **CI/CD**
