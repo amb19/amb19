@@ -1,13 +1,33 @@
-# 🌟 Hi 👋, I'm Jose Maldonado "Pepe"
+# // 👋 Hi, I'm Jose Maldonado - "Pepe" 👨‍💻
 
-A passionate IT Specialist in Platform!
+const joseMaldonado = {
+  name: "Jose Maldonado",
+  nickname: "Pepe",
+  title: "IT Specialist in Platform",
+  passions: [
+    "Software Development",
+    "Continuous learning and teaching", // 🧠
+    "Building efficient solutions",
+  ],
+  focus: { // 🛠️
+    performanceOptimization: true,
+    costOptimization: true,
+  },
+  currentStack: ["AWS", "Python", "Node"], // 💻
 
-- 📄 I'm an enthusiastic IT professional with a background in Architecture, Administration, and Project Management, currently expanding my career into software development.
+  /**
+   * 🚀 A passionate IT Specialist in Platform!
+   */
+  aboutMe: function() {
+    console.log(`📄 Enthusiastic IT professional, currently expanding my career into ${this.passions[0]}.`);
+    console.log(`💻 Currently working and learning with ${this.currentStack.join(', ')}.`);
+  }
+};
 
-- 💻 I’m currently working and learning with **"AWS, Python, and Node"**
+// Run to see the introduction
+joseMaldonado.aboutMe();
 
----
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tools and Technology
 
 | Herramienta / Lenguaje     | Icono  |
@@ -24,8 +44,7 @@ A passionate IT Specialist in Platform!
 | **AWS**                    | ☁️🟧  |
 | **Azure**                  | ☁️🔷  |
 	
----
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📬 Contact me
 
 | Medio            | Información                                        | Icono       |
@@ -33,8 +52,7 @@ A passionate IT Specialist in Platform!
 | **Correo**        | amb.test19@gmail.com                              | 📧          |
 | **LinkedIn**      | https://www.linkedin.com/in/joseamaldonadob/      | 🔗          |
 
----
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📜 skills
 
 - ✅ I'm building skills in Backend Development.
@@ -43,7 +61,7 @@ A passionate IT Specialist in Platform!
 - 🛠️ Azure Devops **CI/CD**
 - 🔍 Continuous improvement through **testing and debugging**.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ** Technology is a facilitator, not the destination.** 🚀
 
