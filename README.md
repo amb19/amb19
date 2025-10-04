@@ -1,31 +1,11 @@
-# // 👋 Hi, I'm Jose Maldonado - "Pepe" 👨‍💻
+# 👋 Hi, I'm Jose Maldonado - "Pepe" 👨‍💻
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🚀 A passionate IT Specialist in Platform! 
 
-const joseMaldonado = {
-  name: "Jose Maldonado",
-  nickname: "Pepe",
-  title: "IT Specialist in Platform",
-  passions: [
-    "Software Development",
-    "Continuous learning and teaching", // 🧠
-    "Building efficient solutions",
-  ],
-  focus: { // 🛠️
-    performanceOptimization: true,
-    costOptimization: true,
-  },
-  currentStack: ["AWS", "Python", "Node"], // 💻
-
-  /**
-   * 🚀 A passionate IT Specialist in Platform!
-   */
-  aboutMe: function() {
-    console.log(`📄 Enthusiastic IT professional, currently expanding my career into ${this.passions[0]}.`);
-    console.log(`💻 Currently working and learning with ${this.currentStack.join(', ')}.`);
-  }
-};
-
-// Run to see the introduction
-joseMaldonado.aboutMe();
+- 📄 I'm an enthusiastic IT professional, currently expanding my career into software development.
+- 🧠 Passionate about constantly learning and teaching.  about building
+- 🛠️ focus on performance and cost optimization.
+- 💻 I’m currently working and learning with **"AWS, Python, and Node"**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tools and Technology
@@ -45,7 +25,7 @@ joseMaldonado.aboutMe();
 | **Azure**                  | ☁️🔷  |
 	
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📬 Contact me
+## 📬 Contact me:
 
 | Medio            | Información                                        | Icono       |
 |-------------------|---------------------------------------------------|-------------|
@@ -55,8 +35,8 @@ joseMaldonado.aboutMe();
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📜 skills
 
-- ✅ I'm building skills in Backend Development.
-- ✅ I'm incorporating **IA** with like ChatGPT.
+- ✅ I'm building skills in Fullstack.
+- ✅ I'm incorporating **IA** Lerning.
 - ✅ Management of **Infrastructure in the cloud**.
 - 🛠️ Azure Devops **CI/CD**
 - 🔍 Continuous improvement through **testing and debugging**.
