@@ -39,7 +39,7 @@
 - ✅ I'm incorporating **IA** Lerning.
 - ✅ Management of **Infrastructure in the cloud**.
 - 🛠️ Azure Devops **CI/CD**
-- 🔍 Continuous improvement through **testing and debugging**.
+- 🔍 Operational health through **monitoring and observability**.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
