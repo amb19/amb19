@@ -2,41 +2,38 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 A passionate IT Specialist in Platform! 
 
-- 📄 I'm an enthusiastic IT professional, currently expanding my career into software development.
-- 🧠 Passionate about constantly learning and teaching.  about building
-- 🛠️ focus on performance and cost optimization.
-- 💻 I’m currently working and learning with **"AWS, Python, and Node"**
+- 📄 I'm an enthusiastic IT professional, currently expanding my career into AI Engineer.
+- 🧠 Passionate about constantly learning and teaching about building
+- 🛠️ Focus on performance and cost optimization.
+- 💻 I’m currently working and learning with **"AI tool, model, use "**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tools and Technology
 
-| Herramienta / Lenguaje     | Icono  |
+| Tool 			     		 | Icon  |
 |----------------------------|--------|
-| **JavaScript / Node.js**   |   🟢  |
+| **JS / Node.js**   		 |   🟢  |
 | **Python**                 |   🐍  |
 | **Linux**                  |   🐧  |
 | **Docker**                 |   🐳  |
 | **Git**                    |   🔧  |
-| **VS Code**                |   💻  |
-| **Terraform**              |   🧱  |
-| **Podman**                 |   📦  |
+| **VS Code**                |   💻  | 
 | **VirtualBox**             |   📀  |
 | **AWS**                    | ☁️🟧  |
 | **Azure**                  | ☁️🔷  |
 	
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📬 Contact me:
 
-| Medio            | Información                                        | Icono       |
-|-------------------|---------------------------------------------------|-------------|
-| **Correo**        | amb.test19@gmail.com                              | 📧          |
-| **LinkedIn**      | https://www.linkedin.com/in/joseamaldonadob/      | 🔗          |
+| 		            | Information                                     	| Icon 	|
+|-------------------|---------------------------------------------------|------	|
+| **Email**        	| amb.test19@gmail.com                              | 📧	|
+| **LinkedIn**      | https://www.linkedin.com/in/joseamaldonadob/      | 🔗	|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📜 skills
+## 📜 skills:
 
-- ✅ I'm building skills in Fullstack.
-- ✅ I'm incorporating **IA** Lerning.
+- ✅ I'm building skills and  incorporating **IA** Learning.
 - ✅ Management of **Infrastructure in the cloud**.
 - 🛠️ Azure Devops **CI/CD**
 - 🔍 Operational health through **monitoring and observability**.
